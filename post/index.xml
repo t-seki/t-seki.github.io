@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | tseki blog</title><link>https://blog.tseki.me/post/</link><atom:link href="https://blog.tseki.me/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright © 2020 tseki</copyright><lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0900</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Posts</title><link>https://blog.tseki.me/post/</link></image><item><title>最初の投稿です。</title><link>https://blog.tseki.me/post/20200330/</link><pubDate>Mon, 30 Mar 2020 00:00:00 +0900</pubDate><guid>https://blog.tseki.me/post/20200330/</guid><description>&lt;p>はじめまして。tsekiです。&lt;/p>
+&lt;p>独自ドメインで低コストにブログを運営したいと思い、&lt;br>
+新しくブログを作成することにしました。&lt;/p>
+&lt;p>とりあえず、
+&lt;a href="https://help.github.com/ja/github/working-with-github-pages/about-github-pages" target="_blank" rel="noopener">GitHub Pages&lt;/a> +
+&lt;a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo&lt;/a> を使った静的サイトにしてみました。&lt;/p>
+&lt;p>今回はテスト投稿のため以上になります。&lt;br>
+引き続きよろしくお願いします。&lt;/p></description></item></channel></rss>
