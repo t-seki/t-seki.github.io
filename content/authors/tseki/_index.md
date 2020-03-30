@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Developer
+role: Software Developer
 
 # Short bio (displayed in user profile at end of posts)
 bio: クラウド触り始めてAWS,GCPにハマってます🔥
