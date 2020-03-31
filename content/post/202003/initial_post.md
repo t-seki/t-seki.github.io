@@ -6,7 +6,7 @@ subtitle: ""
 summary: "はじめまして。tsekiです。"
 authors: [tseki]
 tags: [blog]
-categories: [blog]
+categories: [Diary]
 date: 2020-03-30T00:00:00+09:00
 lastmod: 2020-03-00T00:00:00+09:00
 featured: false
