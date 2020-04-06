@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tseki blog</title><link>https://blog.tseki.me/</link><atom:link href="https://blog.tseki.me/index.xml" rel="self" type="application/rss+xml"/><description>tseki blog</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright © 2020 tseki</copyright><lastBuildDate>Mon, 06 Apr 2020 23:00:00 +0900</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>tseki blog</title><link>https://blog.tseki.me/</link></image><item><title>AWS Certified Developer - Associate 試験に合格した話</title><link>https://blog.tseki.me/posts/2020/04/06/developer_associate.html</link><pubDate>Mon, 06 Apr 2020 23:00:00 +0900</pubDate><guid>https://blog.tseki.me/posts/2020/04/06/developer_associate.html</guid><description>&lt;p>こんばんは。tsekiです。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AWS | tseki blog</title><link>https://blog.tseki.me/tags/aws.html</link><atom:link href="https://blog.tseki.me/tags/aws/index.xml" rel="self" type="application/rss+xml"/><description>AWS</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright © 2020 tseki</copyright><lastBuildDate>Mon, 06 Apr 2020 23:00:00 +0900</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>AWS</title><link>https://blog.tseki.me/tags/aws.html</link></image><item><title>AWS Certified Developer - Associate 試験に合格した話</title><link>https://blog.tseki.me/posts/2020/04/06/developer_associate.html</link><pubDate>Mon, 06 Apr 2020 23:00:00 +0900</pubDate><guid>https://blog.tseki.me/posts/2020/04/06/developer_associate.html</guid><description>&lt;p>こんばんは。tsekiです。&lt;/p>
 &lt;p>先日、表題の試験を受けて無事合格しました。&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">思ってたよりめっちゃ点数高かった〜🥳 &lt;a href="https://t.co/vJsWd7EcKq">pic.twitter.com/vJsWd7EcKq&lt;/a>&lt;/p>&amp;mdash; tseki (@tseki__) &lt;a href="https://twitter.com/tseki__/status/1247186532420554752?ref_src=twsrc%5Etfw">April 6, 2020&lt;/a>&lt;/blockquote> &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;p>バックグラウンドは、AWS歴がちょうど1年くらい。&lt;br>
@@ -41,24 +41,4 @@
 予めAWSサービスの機能やユースケースを知っている人が多いに越したことはなくて、&lt;br>
 言葉が通じる人が増えた方がコミュニケーションの無駄が無くなって開発しやすい。&lt;br>
 とは言え、こういう資格を取ったからと言って必ずしも開発ができるとは限らない。&lt;br>
-そんなに開発は簡単じゃないので、日々学習していきましょう。&lt;/p></description></item><item><title>2020/03/31 日記</title><link>https://blog.tseki.me/posts/2020/03/31/20200331.html</link><pubDate>Tue, 31 Mar 2020 16:54:01 +0900</pubDate><guid>https://blog.tseki.me/posts/2020/03/31/20200331.html</guid><description>&lt;p>こんばんは。tsekiです。&lt;/p>
-&lt;p>今日は Hugo や Academic のドキュメントを眺めつつ、&lt;br>
-config を修正したり、 Shortcode を書いた。&lt;br>
-テンプレートエンジンの仕組みを学習するのは割とコスト高く感じる。。。&lt;br>
-もっと HTML/CSS などフロントエンドの知識がある人は理解しやすいのかもしれない。&lt;/p>
-&lt;p>直近の目標としては、&lt;br>
-AWS の Developer Associate と SysOps Administrator Associate の資格を&lt;br>
-取ろうかなと思って勉強中。&lt;/p>
-&lt;p>予定としては、&lt;br>
-とりあえず今週末に Developer Associate を、&lt;br>
-今月中に SysOps Administrator Associate を受験できるように勉強を進めていくつもり。&lt;/p>
-&lt;p>Developer Associate の模擬試験を受けて結果は90%。&lt;br>
-Encryption, Elastic Beanstalk あたりが苦手っぽいので復習しなきゃ～。&lt;/p>
-&lt;p>勢いが大事だと思うので、とりあえず試験を予約した。&lt;/p></description></item><item><title>最初の投稿です。</title><link>https://blog.tseki.me/posts/2020/03/30/initial_post.html</link><pubDate>Mon, 30 Mar 2020 00:00:00 +0900</pubDate><guid>https://blog.tseki.me/posts/2020/03/30/initial_post.html</guid><description>&lt;p>はじめまして。tsekiです。&lt;/p>
-&lt;p>独自ドメインで低コストにブログを運営したいと思い、&lt;br>
-新しくブログを作成することにしました。&lt;/p>
-&lt;p>とりあえず、
-&lt;a href="https://help.github.com/ja/github/working-with-github-pages/about-github-pages" target="_blank" rel="noopener">GitHub Pages&lt;/a> +
-&lt;a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo&lt;/a> を使った静的サイトにしてみました。&lt;/p>
-&lt;p>今回はテスト投稿のため以上になります。&lt;br>
-引き続きよろしくお願いします。&lt;/p></description></item></channel></rss>
+そんなに開発は簡単じゃないので、日々学習していきましょう。&lt;/p></description></item></channel></rss>

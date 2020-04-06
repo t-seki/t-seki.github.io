@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tseki blog</title><link>https://blog.tseki.me/authors/tseki.html</link><atom:link href="https://blog.tseki.me/authors/tseki/index.xml" rel="self" type="application/rss+xml"/><description>tseki blog</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright © 2020 tseki</copyright><lastBuildDate>Tue, 31 Mar 2020 16:54:01 +0900</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>tseki blog</title><link>https://blog.tseki.me/authors/tseki.html</link></image><item><title>2020/03/31 日記</title><link>https://blog.tseki.me/posts/2020/03/31/20200331.html</link><pubDate>Tue, 31 Mar 2020 16:54:01 +0900</pubDate><guid>https://blog.tseki.me/posts/2020/03/31/20200331.html</guid><description>&lt;p>こんばんは。tsekiです。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tseki blog</title><link>https://blog.tseki.me/authors/tseki.html</link><atom:link href="https://blog.tseki.me/authors/tseki/index.xml" rel="self" type="application/rss+xml"/><description>tseki blog</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright © 2020 tseki</copyright><lastBuildDate>Mon, 06 Apr 2020 23:00:00 +0900</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>tseki blog</title><link>https://blog.tseki.me/authors/tseki.html</link></image><item><title>AWS Certified Developer - Associate 試験に合格した話</title><link>https://blog.tseki.me/posts/2020/04/06/developer_associate.html</link><pubDate>Mon, 06 Apr 2020 23:00:00 +0900</pubDate><guid>https://blog.tseki.me/posts/2020/04/06/developer_associate.html</guid><description>&lt;p>こんばんは。tsekiです。&lt;/p>
+&lt;p>先日、表題の試験を受けて無事合格しました。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">思ってたよりめっちゃ点数高かった〜🥳 &lt;a href="https://t.co/vJsWd7EcKq">pic.twitter.com/vJsWd7EcKq&lt;/a>&lt;/p>&amp;mdash; tseki (@tseki__) &lt;a href="https://twitter.com/tseki__/status/1247186532420554752?ref_src=twsrc%5Etfw">April 6, 2020&lt;/a>&lt;/blockquote> &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>バックグラウンドは、AWS歴がちょうど1年くらい。&lt;br>
+昨年11月頃に Solution Architect - Associate を取得しています。&lt;/p>
+&lt;p>思い立ってから2,3週間くらいで取ることができました。&lt;br>
+今日はその振り返りを行いたいと思います。&lt;/p>
+&lt;h1 id="学習教材">学習教材&lt;/h1>
+&lt;p>ソリューションアーキテクトアソシエイトと違って&lt;br>
+デベロッパーアソシエイトは市販のテキストが無さそうだったので、&lt;br>
+今回はUdemyを中心に勉強を行いました。&lt;/p>
+&lt;h2 id="1-動画教材">1. 動画教材&lt;/h2>
+&lt;p>利用した教材は、&lt;br>
+&lt;a href="https://www.udemy.com/share/101WgCBUYccV1VRX4=/" target="_blank" rel="noopener">Ultimate AWS Certified Developer Associate 2020&lt;/a> です。&lt;/p>
+&lt;p>試験範囲の各AWSサービスがどのようなものであるか、&lt;br>
+都度実際にマネジメントコンソールを操作しながら説明してくださって、&lt;br>
+非常に分かりやすく理解が進みました。&lt;/p>
+&lt;p>また、英語のレベルもそこまで高くなく、&lt;br>
+発音も非常に綺麗で理解しやすかったです。&lt;br>
+おそらく英語字幕も作ってくださっていて、とても助かりました。&lt;br>
+(Udemyは精度の低い文字起こしの字幕が使われる動画が多い印象がありました)&lt;/p>
+&lt;h2 id="2-模擬試験">2. 模擬試験&lt;/h2>
+&lt;p>模擬試験は以下の教材を利用しました。&lt;br>
+&lt;a href="https://www.udemy.com/share/102bK8BUYccV1VRX4=/" target="_blank" rel="noopener">AWS 認定デベロッパー アソシエイト模擬試験問題集&lt;/a>&lt;/p>
+&lt;p>AWSの試験は、&lt;br>
+&lt;code>市販の教材 &amp;lt;&amp;lt; 公式模擬試験 &amp;lt;= 本番試験&lt;/code>&lt;br>
+くらいの難易度があると思います。(個人差があります)&lt;/p>
+&lt;p>ある程度全体の理解ができたら、&lt;br>
+あとは本番試験レベルの問題を出来るだけたくさん解いて、&lt;br>
+苦手分野を発見し勉強するのが効率が良い方法かなと思います。&lt;/p>
+&lt;p>こちらの問題集は本番試験と同等かそれ以上の難易度があったように感じました。&lt;br>
+ところどころ誤植や意味不明な解説があって都度ググったりしたんですが、&lt;br>
+それもまた良い勉強になったということで結果オーライ。&lt;/p>
+&lt;p>今回はUdemyの問題集を利用しましたが、&lt;br>
+他にも問題集を提供しているWEBサイトがあったりするようなので、&lt;br>
+次はそっちも試してみたいなぁと思っています。&lt;/p>
+&lt;h1 id="まとめ">まとめ&lt;/h1>
+&lt;p>Udemyは割とよく95% OFFセールなどをやっているので、&lt;br>
+そういうときに買っておくと良いと思います。&lt;/p>
+&lt;p>また、普段AWSで開発していて思うのは、&lt;br>
+予めAWSサービスの機能やユースケースを知っている人が多いに越したことはなくて、&lt;br>
+言葉が通じる人が増えた方がコミュニケーションの無駄が無くなって開発しやすい。&lt;br>
+とは言え、こういう資格を取ったからと言って必ずしも開発ができるとは限らない。&lt;br>
+そんなに開発は簡単じゃないので、日々学習していきましょう。&lt;/p></description></item><item><title>2020/03/31 日記</title><link>https://blog.tseki.me/posts/2020/03/31/20200331.html</link><pubDate>Tue, 31 Mar 2020 16:54:01 +0900</pubDate><guid>https://blog.tseki.me/posts/2020/03/31/20200331.html</guid><description>&lt;p>こんばんは。tsekiです。&lt;/p>
 &lt;p>今日は Hugo や Academic のドキュメントを眺めつつ、&lt;br>
 config を修正したり、 Shortcode を書いた。&lt;br>
 テンプレートエンジンの仕組みを学習するのは割とコスト高く感じる。。。&lt;br>
